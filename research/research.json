@@ -1,0 +1,329 @@
+{
+  "brand": "Scalini Family Fashion",
+  "handle": "scalini.lb",
+  "instagram": "https://www.instagram.com/scalini.lb/",
+  "contactMode": "instagram",
+  "phone": "",
+  "displayPhone": "",
+  "publicPhoneObserved": "96176563404",
+  "hours": "Confirm current opening hours with Scalini",
+  "followersObserved": 9861,
+  "followersDisplay": "9,861",
+  "latestVisiblePost": "2026-11-22",
+  "researchDate": "2026-11-22",
+  "profileBio": "Fashion for the Whole Family\nMen | Women | Kids | Accessories\nDelivery all over Lebanon\nChtoura, Lebanon\nDM | Telephone +961 76563404",
+  "bioLinks": [
+    "https://maps.app.goo.gl/XEqNjmuarafmeYdK9?g_st=ic"
+  ],
+  "branches": [
+    {
+      "name": "Chtoura",
+      "address": "Chtoura, Lebanon; confirm the exact entrance with Scalini",
+      "mapUrl": "https://maps.app.goo.gl/XEqNjmuarafmeYdK9?g_st=ic"
+    }
+  ],
+  "about": "Scalini – Youssef Saada Co brings family fashion together in Chtoura. Its photographed edit includes men’s tailored and casual layers, children’s looks and textured seasonal pieces. Explore the styles, save your favourites and message the store on Instagram for details.",
+  "heroImage": "C:\\Projects\\prospect-research\\nov22-ten\\scalini-family-fashion\\assets\\10.jpg",
+  "storyImage": "C:\\Projects\\prospect-research\\nov22-ten\\scalini-family-fashion\\assets\\01.jpg",
+  "galleryImages": [
+    "C:\\Projects\\prospect-research\\nov22-ten\\scalini-family-fashion\\assets\\01.jpg",
+    "C:\\Projects\\prospect-research\\nov22-ten\\scalini-family-fashion\\assets\\04.jpg",
+    "C:\\Projects\\prospect-research\\nov22-ten\\scalini-family-fashion\\assets\\05.jpg",
+    "C:\\Projects\\prospect-research\\nov22-ten\\scalini-family-fashion\\assets\\06.jpg",
+    "C:\\Projects\\prospect-research\\nov22-ten\\scalini-family-fashion\\assets\\07.jpg",
+    "C:\\Projects\\prospect-research\\nov22-ten\\scalini-family-fashion\\assets\\08.jpg",
+    "C:\\Projects\\prospect-research\\nov22-ten\\scalini-family-fashion\\assets\\09.jpg",
+    "C:\\Projects\\prospect-research\\nov22-ten\\scalini-family-fashion\\assets\\10.jpg",
+    "C:\\Projects\\prospect-research\\nov22-ten\\scalini-family-fashion\\assets\\11.jpg",
+    "C:\\Projects\\prospect-research\\nov22-ten\\scalini-family-fashion\\assets\\12.jpg"
+  ],
+  "products": [
+    {
+      "id": "brown-layered-kids-edit",
+      "name": "Brown Layered Kids Edit",
+      "category": "Kids & family",
+      "description": "A brown zip-front outer layer, light crewneck and matching-looking trousers shown on hangers in a post labelled as a kids set. Confirm the garments individually. Message Scalini to confirm the exact piece, intended age range, fit, colour, current availability and price. Other garments and accessories are styling references unless the store confirms they are included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov22-ten\\scalini-family-fashion\\assets\\04.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/scalini.lb/reel/DgCtCEexDw7/",
+      "sourcePosts": [
+        "https://www.instagram.com/scalini.lb/reel/DgCtCEexDw7/"
+      ],
+      "price": null,
+      "sizes": [
+        "Confirm with the store"
+      ]
+    },
+    {
+      "id": "ivory-shaggy-vest-edit",
+      "name": "Ivory Shaggy Vest Edit",
+      "category": "Textured layers",
+      "description": "An ivory long-pile vest with dark pocket details, styled with a light ribbed top and a dark denim skirt. Message Scalini to confirm the exact piece, intended age range, fit, colour, current availability and price. Other garments and accessories are styling references unless the store confirms they are included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov22-ten\\scalini-family-fashion\\assets\\05.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/scalini.lb/reel/DgCsjP9hiSD/",
+      "sourcePosts": [
+        "https://www.instagram.com/scalini.lb/reel/DgCsjP9hiSD/"
+      ],
+      "price": null,
+      "sizes": [
+        "Confirm with the store"
+      ]
+    },
+    {
+      "id": "brown-textured-vest-edit",
+      "name": "Brown Textured Vest Edit",
+      "category": "Textured layers",
+      "description": "A brown striped long-pile vest styled with a light top and brown trousers on hangers. Message Scalini to confirm the exact piece, intended age range, fit, colour, current availability and price. Other garments and accessories are styling references unless the store confirms they are included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov22-ten\\scalini-family-fashion\\assets\\06.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/scalini.lb/reel/DgCsCruRfOr/",
+      "sourcePosts": [
+        "https://www.instagram.com/scalini.lb/reel/DgCsCruRfOr/"
+      ],
+      "price": null,
+      "sizes": [
+        "Confirm with the store"
+      ]
+    },
+    {
+      "id": "plum-hooded-layers",
+      "name": "Plum Hooded Layers",
+      "category": "Outer layers",
+      "description": "Two plush-looking hooded zip-front outer layers in a deep plum tone, shown side by side. Message Scalini to confirm the exact piece, intended age range, fit, colour, current availability and price. Other garments and accessories are styling references unless the store confirms they are included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov22-ten\\scalini-family-fashion\\assets\\07.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/scalini.lb/reel/DgCmQAcB1K3/",
+      "sourcePosts": [
+        "https://www.instagram.com/scalini.lb/reel/DgCmQAcB1K3/"
+      ],
+      "price": null,
+      "sizes": [
+        "Confirm with the store"
+      ]
+    },
+    {
+      "id": "navy-zip-layered-look",
+      "name": "Navy Zip Layered Look",
+      "category": "Men’s edit",
+      "description": "A dark navy zip-front outer layer styled over a blue shirt with dark trousers on hangers. Message Scalini to confirm the exact piece, intended age range, fit, colour, current availability and price. Other garments and accessories are styling references unless the store confirms they are included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov22-ten\\scalini-family-fashion\\assets\\08.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/scalini.lb/reel/DgCj99QBY15/",
+      "sourcePosts": [
+        "https://www.instagram.com/scalini.lb/reel/DgCj99QBY15/"
+      ],
+      "price": null,
+      "sizes": [
+        "Confirm with the store"
+      ]
+    },
+    {
+      "id": "burgundy-patterned-scarf-edit",
+      "name": "Burgundy Patterned Scarf Edit",
+      "category": "Accessories & styling",
+      "description": "A patterned burgundy scarf shown over a dark outer layer with blue jeans as a styling edit. Message Scalini to confirm the exact piece, intended age range, fit, colour, current availability and price. Other garments and accessories are styling references unless the store confirms they are included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov22-ten\\scalini-family-fashion\\assets\\09.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/scalini.lb/reel/DgCi3tcxwTZ/",
+      "sourcePosts": [
+        "https://www.instagram.com/scalini.lb/reel/DgCi3tcxwTZ/"
+      ],
+      "price": null,
+      "sizes": [
+        "Confirm with the store"
+      ]
+    },
+    {
+      "id": "kids-window-edit",
+      "name": "Kids Window Edit",
+      "category": "Kids & family",
+      "description": "Children’s outfits arranged on mannequins in the store window, including pale and brown padded outer layers and a grey graphic top. Ask which individual pieces are available. Message Scalini to confirm the exact piece, intended age range, fit, colour, current availability and price. Other garments and accessories are styling references unless the store confirms they are included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov22-ten\\scalini-family-fashion\\assets\\10.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/scalini.lb/reel/DgAhOsOIY5t/",
+      "sourcePosts": [
+        "https://www.instagram.com/scalini.lb/reel/DgAhOsOIY5t/"
+      ],
+      "price": null,
+      "sizes": [
+        "Confirm with the store"
+      ]
+    },
+    {
+      "id": "grey-zip-neck-knit",
+      "name": "Grey Zip Neck Knit",
+      "category": "Knitwear",
+      "description": "A grey zip-neck textured top photographed flat with dark burgundy and navy colour references behind it. Message Scalini to confirm the exact piece, intended age range, fit, colour, current availability and price. Other garments and accessories are styling references unless the store confirms they are included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov22-ten\\scalini-family-fashion\\assets\\11.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/scalini.lb/reel/DgAfXZDIP9t/",
+      "sourcePosts": [
+        "https://www.instagram.com/scalini.lb/reel/DgAfXZDIP9t/"
+      ],
+      "price": null,
+      "sizes": [
+        "Confirm with the store"
+      ]
+    },
+    {
+      "id": "navy-formal-scarf-look",
+      "name": "Navy Formal Scarf Look",
+      "category": "Men’s edit",
+      "description": "A navy tailored formal look styled with a pale scarf, shirt and tie, displayed beside a dark suit. Confirm each garment and accessory separately. Message Scalini to confirm the exact piece, intended age range, fit, colour, current availability and price. Other garments and accessories are styling references unless the store confirms they are included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov22-ten\\scalini-family-fashion\\assets\\12.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/scalini.lb/reel/DgAet-jIaeX/",
+      "sourcePosts": [
+        "https://www.instagram.com/scalini.lb/reel/DgAet-jIaeX/"
+      ],
+      "price": null,
+      "sizes": [
+        "Confirm with the store"
+      ]
+    }
+  ],
+  "activityEvidence": {
+    "source": "https://www.instagram.com/scalini.lb/",
+    "latestSource": "https://www.instagram.com/scalini.lb/reel/DgCtCEexDw7/",
+    "latestDate": "2026-11-22",
+    "note": "Root directly observed 9,861 followers and multiple public posts dated November 22 and November 21. A smaller account than the preferred 15K threshold, accepted by root for current family-fashion activity and useful catalogue content. Pinned February 17 post does not establish current activity; the dated recent grid does."
+  },
+  "websiteCheck": {
+    "result": "No matching official website or online shop found in reviewed public profile links and bounded handle, business-name, Chtoura and public-phone searches. This does not rule out an unlisted website.",
+    "queries": [
+      "\"scalini.lb\" website shop",
+      "\"Scalini\" \"Youssef Saada\" website",
+      "\"Scalini\" \"76563404\"",
+      "\"Scalini\" Chtoura shop website"
+    ],
+    "checkedDate": "2026-11-22",
+    "sources": [
+      "https://www.instagram.com/scalini.lb/",
+      "https://yellowpages-ar.cybo.com/LB-biz/scalini-youssef-saada-co"
+    ],
+    "primaryObservation": "Root observed public bio DM orders, telephone76563404 and only a Google Maps bio link. No shop/domain link found. Searches for Scalini also find unrelated restaurants, Lithuanian shoe shops and Belgian boutiques; these do not match this Chtoura business."
+  },
+  "imageProvenance": [
+    {
+      "path": "C:\\Projects\\prospect-research\\nov22-ten\\scalini-family-fashion\\assets\\01.jpg",
+      "sourcePost": "https://www.instagram.com/scalini.lb/reel/DU3DcMbDLc7/",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/632181971_26845817288340472_2668832601040388835_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=qijhwEej5iAQ7kNvwHXya9g&_nc_oc=AdrcRWja9JL4rX_2tU0g4MNzMLKWgV3ysCJ08Rgpgs5dSMKFRv0LD91bHyNEEF-w0zA&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=twZNqo4Fbsvs4j4V9tG22Q&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQT6D-UbjAhZiVaZw35Uf2jJuIx0-rpMp88DC8RKxnYkow&oe=6B08B702",
+      "alt": "Video by Scalini- Youssef Saada Co on February 17, 2026.",
+      "width": 361,
+      "height": 640,
+      "sha256": "f4b9874c15e633371239660d81c2979d929376e3ae1fbcca38dc73e76094a943",
+      "collectedDate": "2026-11-22",
+      "method": "Root CUA pageAssets public Instagram rendered-image export; native still/Reel-cover JPEG, no extracted frames"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov22-ten\\scalini-family-fashion\\assets\\04.jpg",
+      "sourcePost": "https://www.instagram.com/scalini.lb/reel/DgCtCEexDw7/",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/920853893_4956904837917080_3341407143159676425_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=-yn8Yp9aHKcQ7kNvwHfRGD9&_nc_oc=AdofN6NsSeco6Eim35J9lt6l9J8v1kn6PpknygEWyH0fAXdq0Tr0tb8zOqwBL3EKR1E&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=twZNqo4Fbsvs4j4V9tG22Q&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQSpkFkEScc04qj1StKmgQuXfrByslLj7fZfRo7W4s-Rkg&oe=6B08A14F",
+      "alt": "Video by Scalini- Youssef Saada Co on November 22, 2026. May be an image of duffle coat, overcoat, sweatpants, parka, sweatsuit, fleece, clothes hanger and text.",
+      "width": 361,
+      "height": 640,
+      "sha256": "b452de695fb52ae0ac75b6f802d523c26f1e910fd8691f93248f5af96676eed9",
+      "collectedDate": "2026-11-22",
+      "method": "Root CUA pageAssets public Instagram rendered-image export; native still/Reel-cover JPEG, no extracted frames"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov22-ten\\scalini-family-fashion\\assets\\05.jpg",
+      "sourcePost": "https://www.instagram.com/scalini.lb/reel/DgCsjP9hiSD/",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/903005666_3774481439356786_5431998492876047761_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=JDgoT-tH8PkQ7kNvwG8ZbUe&_nc_oc=AdqtA_wmrR6BXGKInXMcxRgwq7tCyZoCqa2tqviMSsk0jnUoG9um2lkgO0tXnlevjdo&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=twZNqo4Fbsvs4j4V9tG22Q&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQQgAKIFUcfU-XT-VGAu0EMbly6mx6U2u3xzsyRr79rTcA&oe=6B089E07",
+      "alt": "Video by Scalini- Youssef Saada Co on November 22, 2026. May be an image of sable coat, skirt, jacket, parka and text.",
+      "width": 361,
+      "height": 640,
+      "sha256": "5d311f4a8338b93f5f80fa6f23b8bd2a715adb21a34f50512dc81b28592cfd90",
+      "collectedDate": "2026-11-22",
+      "method": "Root CUA pageAssets public Instagram rendered-image export; native still/Reel-cover JPEG, no extracted frames"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov22-ten\\scalini-family-fashion\\assets\\06.jpg",
+      "sourcePost": "https://www.instagram.com/scalini.lb/reel/DgCsCruRfOr/",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/920750996_1025221633935571_9069619133826468128_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=NZIwZUZL9YUQ7kNvwFuXsjM&_nc_oc=AdpO6-vRfBAHbDYXJMZ6kY71Rt0VZn7e8bzFU71m75TWtJGFEVj8virRBSVnkpLgNu8&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=twZNqo4Fbsvs4j4V9tG22Q&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQQLWAia0EKzf-_jLNCBCfLe1amJxevd9aA0YFW0dTWlUw&oe=6B08A0D7",
+      "alt": "Video by Scalini- Youssef Saada Co on November 22, 2026. May be an image of sable coat, goosedown coat, parka and text.",
+      "width": 361,
+      "height": 640,
+      "sha256": "809ce81715f50d5fc5e26404520463138cbf0c5595dbcb5fe0185296663b3832",
+      "collectedDate": "2026-11-22",
+      "method": "Root CUA pageAssets public Instagram rendered-image export; native still/Reel-cover JPEG, no extracted frames"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov22-ten\\scalini-family-fashion\\assets\\07.jpg",
+      "sourcePost": "https://www.instagram.com/scalini.lb/reel/DgCmQAcB1K3/",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/918164235_1163272966231306_5410072819944762781_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=aMpjwmklb3QQ7kNvwF_7rHz&_nc_oc=AdqgMzlU24fQhYT_bHEj85tqPDsKOE-31vDsdh6D1lXW3jfdif6LOf7708qCGEf1_rM&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=twZNqo4Fbsvs4j4V9tG22Q&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQTFLAKkk-EIR6QXJNZlvtFb56mA5PfUiARpmBiG3-DCww&oe=6B089305",
+      "alt": "Video by Scalini- Youssef Saada Co on November 22, 2026. May be an image of fur coat, jacket, parka and text.",
+      "width": 361,
+      "height": 640,
+      "sha256": "e9a82f826146befeeb56ab432860ad91373f1f633f8e629811a8bed158fb7fd7",
+      "collectedDate": "2026-11-22",
+      "method": "Root CUA pageAssets public Instagram rendered-image export; native still/Reel-cover JPEG, no extracted frames"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov22-ten\\scalini-family-fashion\\assets\\08.jpg",
+      "sourcePost": "https://www.instagram.com/scalini.lb/reel/DgCj99QBY15/",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/918143319_1098101289855311_3583960668175842376_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=synBaUAiMScQ7kNvwGw_4eo&_nc_oc=Adp01cfrfGtXpMaPSr0vX1n2KdmH-zo9DlgEdGH_TKN4zUV39dpTq8teeKOSg2Rlb2s&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=twZNqo4Fbsvs4j4V9tG22Q&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQRoqw_8sfexbhkUPYWDEnG42u9lCUNVkxiKX2EOyfy1yQ&oe=6B08BDD8",
+      "alt": "Video by Scalini- Youssef Saada Co on November 22, 2026. May be an image of duffle coat, suit, overcoat, pants, blazer, clothes hanger and text.",
+      "width": 361,
+      "height": 640,
+      "sha256": "ee6d02816724c75bfc65e25e1dc62249adb37b8915a8fa17d09d427dd9b38f0a",
+      "collectedDate": "2026-11-22",
+      "method": "Root CUA pageAssets public Instagram rendered-image export; native still/Reel-cover JPEG, no extracted frames"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov22-ten\\scalini-family-fashion\\assets\\09.jpg",
+      "sourcePost": "https://www.instagram.com/scalini.lb/reel/DgCi3tcxwTZ/",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/920162109_1531501995695208_1192179261695770_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=O0k0wMEaaqkQ7kNvwHL7iwd&_nc_oc=AdruG1JUO8xunBv4ukv_g2tyXTnc30qjmy1Anet22S6nTr5VatS0qGKUxifIkcGoN-o&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=twZNqo4Fbsvs4j4V9tG22Q&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQSjSVxRYJoeclXN6Sp8TzPFX3SktLX_pslBlond82IasQ&oe=6B0893DB",
+      "alt": "Video by Scalini- Youssef Saada Co on November 22, 2026. May be an image of scarf, outerwear and text.",
+      "width": 361,
+      "height": 640,
+      "sha256": "c0595eadcfeedddfeb87aab6a186e2eacdeddcc59cb9a4016bf6e91dd4f2d351",
+      "collectedDate": "2026-11-22",
+      "method": "Root CUA pageAssets public Instagram rendered-image export; native still/Reel-cover JPEG, no extracted frames"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov22-ten\\scalini-family-fashion\\assets\\10.jpg",
+      "sourcePost": "https://www.instagram.com/scalini.lb/reel/DgAhOsOIY5t/",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/920415658_1384985393522936_2529863847267208361_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=fh421Y7wbMMQ7kNvwEDFxXC&_nc_oc=AdrOBBRbJx8kzLhhwjzzABDwlZLmxzFOIfRbF78OLuE8SMtWNrgQigXRbn-JDkGTM1s&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=twZNqo4Fbsvs4j4V9tG22Q&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQREnY7qOFhkGWZjdQYaDvZftXdRNM710V6AeC0xGq1iIQ&oe=6B08AC4A",
+      "alt": "Video by Scalini- Youssef Saada Co on November 21, 2026. May be an image of duffle coat, parka, jacket, display case, mannequin and text.",
+      "width": 361,
+      "height": 640,
+      "sha256": "49b7e9e7cc27a3ff8fe91c20daff55b50c5d28956575321fc34e7a75ab75caec",
+      "collectedDate": "2026-11-22",
+      "method": "Root CUA pageAssets public Instagram rendered-image export; native still/Reel-cover JPEG, no extracted frames"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov22-ten\\scalini-family-fashion\\assets\\11.jpg",
+      "sourcePost": "https://www.instagram.com/scalini.lb/reel/DgAfXZDIP9t/",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/920716032_1214312031163851_6444968326622815278_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=pxGQ8pXv43sQ7kNvwGb3n0Q&_nc_oc=AdrpQxtrcRre3gAZDyRjsUG44fuE2YA_N-JuZMLFyE_XoQ_47iAyNO0A4LZG_FukD1Q&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=twZNqo4Fbsvs4j4V9tG22Q&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQS85vQTXteXZVEwO8k7cq6XG_vQ58Q1rqPal13TJiIkXg&oe=6B08B8BC",
+      "alt": "Video by Scalini- Youssef Saada Co on November 21, 2026. May be an image of knit, sweater, fleece, top, cardigan and text.",
+      "width": 361,
+      "height": 640,
+      "sha256": "0743f17c267b7f18d8d215d7667a4b72bff15ce4f5eb82953e675b882c4d18f0",
+      "collectedDate": "2026-11-22",
+      "method": "Root CUA pageAssets public Instagram rendered-image export; native still/Reel-cover JPEG, no extracted frames"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov22-ten\\scalini-family-fashion\\assets\\12.jpg",
+      "sourcePost": "https://www.instagram.com/scalini.lb/reel/DgAet-jIaeX/",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/912225515_1180823938028281_7119711248091608140_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=nwT9NHWwN1EQ7kNvwGlSB_O&_nc_oc=AdpLh-Hl8AUFJVa-K9XIY0FqcxKQ5MWHFa0jKW_i4NXEhCmF57c5GlXS6LUKrDxDWUU&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=twZNqo4Fbsvs4j4V9tG22Q&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQRb6OgLMrxwutYVEGb0VFllnDnARbUs-6xMwDf0lkaFmA&oe=6B0894E2",
+      "alt": "Video by Scalini- Youssef Saada Co on November 21, 2026. May be an image of duffle coat, overcoat, dinner jacket, clothes hanger, suit, blazer and text.",
+      "width": 361,
+      "height": 640,
+      "sha256": "252fc38df96c2901ce15b68b9bb8b2f317445e600facaab37a59d1bd2081888c",
+      "collectedDate": "2026-11-22",
+      "method": "Root CUA pageAssets public Instagram rendered-image export; native still/Reel-cover JPEG, no extracted frames"
+    }
+  ],
+  "imageNotes": "Ten usable public owner-account stills from twelve rendered Instagram grid images exported by root through pageAssets. Pinned text posters02and03 excluded from website. Item01 is a store/team reference only, not a product listing. Items04–12 illustrate nine catalogue styling groups; some labels mention sets but bundle contents are unconfirmed. All are native image/Reel-cover JPEGs; no video frames extracted. No prices, material composition, authenticity, sizes or current stock inferred. Public telephone is not explicitly a WhatsApp contact, so site enquiries must use Instagram. Prefer portrait-contain layouts for these covers."
+}
